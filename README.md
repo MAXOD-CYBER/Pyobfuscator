@@ -19,9 +19,9 @@ pkg install git -y
 pip install requests
 
 # Step 4: Clone repository
-git clone https://github.com/MAXOD-CYBER/Pyobfuscator/
+git clone https://github.com/MAXOD-CYBER/Pyobfuscator.git
 # Step 5: Navigate to folder
-cd PyObfuscate
+cd Pyobfuscator
 
 # Step 6: Run the tool
-python3 pyobfuscate_maxod.py
+python3 OBFUSCATOR.py
